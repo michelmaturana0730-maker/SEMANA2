@@ -1,0 +1,8 @@
+Es importante usar Git porque permite llevar un control de todos los cambios del proyecto.  
+También ayuda a recuperar versiones anteriores si ocurre un error.  
+Facilita el trabajo en equipo porque varias personas pueden trabajar al mismo tiempo.  
+Además, permite ver quién hizo cada cambio y cuándo lo hizo.  
+Esto hace que el desarrollo sea más organizado y seguro.  
+Git también ayuda a mantener un historial claro del proyecto.  
+Gracias a esto se mejora la calidad del software.  
+Es una herramienta esencial en el desarrollo moderno.
